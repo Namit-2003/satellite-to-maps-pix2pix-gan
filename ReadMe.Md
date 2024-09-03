@@ -11,7 +11,7 @@ The dataset used for this project can be downloaded from the following link:
 
 Below are sample images of the source (satellite) and target (map) images used for training the model.
 
-### Source Image (Satellite)
+### Source Image (Satellite) and Target Image (Map)
 ![Source Target Images](Source_Target_images.png)
 
 *Note: The images above are bordered for clarity.*
