@@ -32,7 +32,7 @@ The discriminator is a convolutional neural network based on the PatchGAN archit
 
 ## Loss Function
 
-The loss function used for training the model is Binary Cross-Entropy (BCE). The loss function is crucial for guiding the model towards generating more accurate and realistic map images from satellite inputs.
+The loss function used for training the model is Binary Cross-Entropy (BCE) and Mean Absolute Error (MAE)
 
 ## Training Process
 
